@@ -1,0 +1,149 @@
+{
+    "tareas": [
+      {
+        "id": 1,
+        "titulo": "Tarea 1",
+        "descripcion": "Realizar informe mensual",
+        "tiempo": 5,
+        "foto": "https://img.freepik.com/vector-gratis/estudiantes-escuela-pizarra-ninas-mujeres-jovenes-sosteniendo-lapices-enormes-levantando-manos-ilustracion-plana_74855-11037.jpg?w=996&t=st=1698168898~exp=1698169498~hmac=a63b246df381a7e2146a0aa873d200cbcf536877e6908fb921bfc9ef98d01f8a",
+        "responsable": "Ana López",
+        "estado": "completada"
+      },
+      {
+        "id": 2,
+        "titulo": "Tarea 2",
+        "descripcion": "Reunión de equipo",
+        "tiempo": 7,
+        "foto": "https://img.freepik.com/vector-gratis/ilustracion-api-diseno-plano-dibujado-mano_23-2149379500.jpg?w=1380&t=st=1698106055~exp=1698106655~hmac=931c20e17b03fcacb9c89831d786db68dd98d542d7ddee952c53b2df0bd66738",
+        "responsable": "Juan Pérez",
+        "estado": "porTestear"
+      },
+      {
+        "id": 3,
+        "titulo": "Tarea 3",
+        "descripcion": "Preparar presentación",
+        "tiempo": 2,
+        "foto": "https://img.freepik.com/foto-gratis/mujer-negocios-pega-pegatinas-pensando-proyecto-mujer-cepillando-pensando-pegatinas_231208-11709.jpg?w=1380&t=st=1698106009~exp=1698106609~hmac=7c46d5e97e5932111dc4f2b7c57f50ad49e8cf8e189725aea3e8a8b973324b3d",
+        "responsable": "María Gómez",
+        "estado": "porHacer"
+      },
+      {
+        "id": 4,
+        "titulo": "Tarea 4",
+        "descripcion": "Investigación de mercado",
+        "tiempo": 3,
+        "foto": "https://img.freepik.com/vector-gratis/ilustracion-concepto-proceso_114360-4229.jpg?w=1380&t=st=1698106102~exp=1698106702~hmac=48560c72c5051e3329c7edab1eae00ca41db05fc74321729e37a6897417c7938",
+        "responsable": "Carlos Rodríguez",
+        "estado": "enProduccion"
+      },
+      {
+        "id": 5,
+        "titulo": "Tarea 5",
+        "descripcion": "Revisión de código",
+        "tiempo": 4,
+        "foto": "https://img.freepik.com/vector-gratis/estudiantes-escuela-pizarra-ninas-mujeres-jovenes-sosteniendo-lapices-enormes-levantando-manos-ilustracion-plana_74855-11037.jpg?w=996&t=st=1698168898~exp=1698169498~hmac=a63b246df381a7e2146a0aa873d200cbcf536877e6908fb921bfc9ef98d01f8a",
+        "responsable": "Laura Martínez",
+        "estado": "completada"
+      },
+      {
+        "id": 6,
+        "titulo": "Tarea 6",
+        "descripcion": "Entrevista de trabajo",
+        "tiempo": 6,
+        "foto": "https://img.freepik.com/vector-gratis/ilustracion-api-diseno-plano-dibujado-mano_23-2149379500.jpg?w=1380&t=st=1698106055~exp=1698106655~hmac=931c20e17b03fcacb9c89831d786db68dd98d542d7ddee952c53b2df0bd66738",
+        "responsable": "Daniel Sánchez",
+        "estado": "porTestear"
+      },
+      {
+        "id": 7,
+        "titulo": "Tarea 7",
+        "descripcion": "Desarrollo de prototipo",
+        "tiempo": 7,
+        "foto": "https://img.freepik.com/foto-gratis/mujer-negocios-pega-pegatinas-pensando-proyecto-mujer-cepillando-pensando-pegatinas_231208-11709.jpg?w=1380&t=st=1698106009~exp=1698106609~hmac=7c46d5e97e5932111dc4f2b7c57f50ad49e8cf8e189725aea3e8a8b973324b3d",
+        "responsable": "Sofía García",
+        "estado": "porHacer"
+      },
+      {
+        "id": 8,
+        "titulo": "Tarea 8",
+        "descripcion": "Planificación de marketing",
+        "tiempo": 10,
+        "foto": "https://img.freepik.com/vector-gratis/ilustracion-concepto-proceso_114360-4229.jpg?w=1380&t=st=1698106102~exp=1698106702~hmac=48560c72c5051e3329c7edab1eae00ca41db05fc74321729e37a6897417c7938",
+        "responsable": "Javier Torres",
+        "estado": "enProduccion"
+      },
+      {
+        "id": 9,
+        "titulo": "Tarea 9",
+        "descripcion": "Entrenamiento del equipo",
+        "tiempo": 4,
+        "foto": "https://img.freepik.com/vector-gratis/estudiantes-escuela-pizarra-ninas-mujeres-jovenes-sosteniendo-lapices-enormes-levantando-manos-ilustracion-plana_74855-11037.jpg?w=996&t=st=1698168898~exp=1698169498~hmac=a63b246df381a7e2146a0aa873d200cbcf536877e6908fb921bfc9ef98d01f8a",
+        "responsable": "Isabel Ramírez",
+        "estado": "completada"
+      },
+      {
+        "id": 10,
+        "titulo": "Tarea 10",
+        "descripcion": "Evaluación de proyectos",
+        "tiempo": 6,
+        "foto": "https://img.freepik.com/vector-gratis/ilustracion-api-diseno-plano-dibujado-mano_23-2149379500.jpg?w=1380&t=st=1698106055~exp=1698106655~hmac=931c20e17b03fcacb9c89831d786db68dd98d542d7ddee952c53b2df0bd66738",
+        "responsable": "Eduardo Díaz",
+        "estado": "porTestear"
+      },
+      {
+        "id": 11,
+        "titulo": "Tarea 11",
+        "descripcion": "Reunión con el cliente",
+        "tiempo": 3,
+        "foto": "https://img.freepik.com/foto-gratis/mujer-negocios-pega-pegatinas-pensando-proyecto-mujer-cepillando-pensando-pegatinas_231208-11709.jpg?w=1380&t=st=1698106009~exp=1698106609~hmac=7c46d5e97e5932111dc4f2b7c57f50ad49e8cf8e189725aea3e8a8b973324b3d",
+        "responsable": "Luisa Ortiz",
+        "estado": "porHacer"
+      },
+      {
+        "id": 12,
+        "titulo": "Tarea 12",
+        "descripcion": "Diseño de interfaz de usuario",
+        "tiempo": 5,
+        "foto": "https://img.freepik.com/vector-gratis/ilustracion-concepto-proceso_114360-4229.jpg?w=1380&t=st=1698106102~exp=1698106702~hmac=48560c72c5051e3329c7edab1eae00ca41db05fc74321729e37a6897417c7938",
+        "responsable": "Miguel Vargas",
+        "estado": "enProduccion"
+      },
+      {
+        "id": 13,
+        "titulo": "Tarea 13",
+        "descripcion": "Mantenimiento de sistemas",
+        "tiempo": 7,
+        "foto": "https://img.freepik.com/vector-gratis/estudiantes-escuela-pizarra-ninas-mujeres-jovenes-sosteniendo-lapices-enormes-levantando-manos-ilustracion-plana_74855-11037.jpg?w=996&t=st=1698168898~exp=1698169498~hmac=a63b246df381a7e2146a0aa873d200cbcf536877e6908fb921bfc9ef98d01f8a",
+        "responsable": "Patricia López",
+        "estado": "completada"
+      },
+      {
+        "id": 14,
+        "titulo": "Tarea 14",
+        "descripcion": "Capacitación del personal",
+        "tiempo": 3,
+        "foto": "https://img.freepik.com/vector-gratis/ilustracion-api-diseno-plano-dibujado-mano_23-2149379500.jpg?w=1380&t=st=1698106055~exp=1698106655~hmac=931c20e17b03fcacb9c89831d786db68dd98d542d7ddee952c53b2df0bd66738",
+        "responsable": "Ricardo Castro",
+        "estado": "porTestear"
+      },
+      {
+        "id": 15,
+        "titulo": "Tarea 15",
+        "descripcion": "Desarrollo de aplicaciones",
+        "tiempo": 8,
+        "foto": "https://img.freepik.com/foto-gratis/mujer-negocios-pega-pegatinas-pensando-proyecto-mujer-cepillando-pensando-pegatinas_231208-11709.jpg?w=1380&t=st=1698106009~exp=1698106609~hmac=7c46d5e97e5932111dc4f2b7c57f50ad49e8cf8e189725aea3e8a8b973324b3d",
+        "responsable": "Carmen Fernández",
+        "estado": "porHacer"
+      },
+      {
+        "id": 16,
+        "titulo": "Tarea 16",
+        "descripcion": "Gestión de proyectos",
+        "tiempo": 10,
+        "foto": "https://img.freepik.com/vector-gratis/ilustracion-concepto-proceso_114360-4229.jpg?w=1380&t=st=1698106102~exp=1698106702~hmac=48560c72c5051e3329c7edab1eae00ca41db05fc74321729e37a6897417c7938",
+        "responsable": "Roberto Gómez",
+        "estado": "enProduccion"
+      }
+    ]
+  }
+  
